@@ -53,7 +53,7 @@
 | Проект | Краткое содержание | Технологии |
 |---|---|---|
 | [Реализация безопасной инфраструктуры компании InvestPro](https://github.com/vladimirbr-rgb/investpro-secure-infrastructure) | Проектирование защищённой инфраструктуры, сегментация сети, настройка межсетевого экрана и управления доступом | Linux, Windows Server, Active Directory, OpenLDAP, nftables, WireGuard |
-| Защита веб-сервиса и мониторинг событий ИБ | Настройка защиты веб-сервиса, сбор и анализ событий безопасности, автоматизация защитных процедур | Nginx, ModSecurity, OWASP CRS, BunkerWeb, Wazuh, Ansible, ClamAV |
+| [Security Operations Lab: Layer 8](https://github.com/vladimirbr-rgb/layer8-security-operations-lab) | Мониторинг и реагирование на инциденты, анализ уязвимостей, WAF, VPN, LDAP и сетевая фильтрация | Wazuh, BunkerWeb, WireGuard, LDAP, nftables, Docker |
 | Дипломная работа: защищённая инфраструктура головного офиса и филиала | Аудит, анализ угроз, настройка защищённой сети, Linux/Windows hardening и автоматизация мер защиты | Linux, Windows Server, Docker, Active Directory, nftables, Wazuh, WireGuard, Ansible |
 
 > Репозитории с обезличенными конфигурациями, скриптами, схемами и результатами тестирования будут добавлены по мере оформления портфолио.
