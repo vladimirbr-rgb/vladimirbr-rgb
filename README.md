@@ -48,7 +48,7 @@
 
 В рамках программы выполнил учебные проекты и дипломную работу по проектированию, настройке и проверке защищённой инфраструктуры в изолированной лабораторной среде.
 
-## Проекты
+## Проекты по информационной безопасности
 
 | Проект | Краткое содержание | Технологии |
 |---|---|---|
@@ -56,7 +56,15 @@
 | [Security Operations Lab: Layer 8](https://github.com/vladimirbr-rgb/layer8-security-operations-lab) | Мониторинг и реагирование на инциденты, анализ уязвимостей, WAF, VPN, LDAP и сетевая фильтрация | Wazuh, BunkerWeb, WireGuard, LDAP, nftables, Docker |
 | [Дипломный проект: защищённая инфраструктура головного офиса и филиала](https://github.com/vladimirbr-rgb/secure-infrastructure-thesis) | Аудит, расследование инцидентов, Linux hardening, сегментация филиала, nftables, ClamAV через Ansible и тестовый домен Active Directory с GPO | Linux, Windows Server, Active Directory, OpenLDAP, Ansible, nftables, Wazuh, ClamAV, Arkime |
 
-> Репозитории с обезличенными конфигурациями, скриптами, схемами и результатами тестирования будут добавлены по мере оформления портфолио.
+## Инфраструктура и системное администрирование
+
+Практический проект по проектированию и настройке корпоративной инфраструктуры: сетевой дизайн, VLAN, маршрутизация, базовые Linux-сервисы, автоматизация и Active Directory.
+
+| Проект | Краткое содержание | Технологии |
+|---|---|---|
+| [Superstore Network, Services and Active Directory Lab](https://github.com/vladimirbr-rgb/superstore-network-services-lab) | Проектирование сети головного офиса и даркстора, VLAN, inter-VLAN routing, DHCP, NAT/DNAT, DNS, NTP, Ansible, Postfix, FTP, Nginx и Active Directory | EVE-NG, Cisco IOS, VLAN, 802.1Q, DHCP, NAT/PAT, DNAT, DNS, NTP, Ansible, Postfix, vsftpd, Nginx, Active Directory, GPO |
+
+> Каждый репозиторий содержит описание цели, архитектуру, используемые технологии и результаты проверок, выполненных в изолированной учебной среде.
 
 ## Принципы публикации
 
