@@ -54,7 +54,7 @@
 |---|---|---|
 | [Реализация безопасной инфраструктуры компании InvestPro](https://github.com/vladimirbr-rgb/investpro-secure-infrastructure) | Проектирование защищённой инфраструктуры, сегментация сети, настройка межсетевого экрана и управления доступом | Linux, Windows Server, Active Directory, OpenLDAP, nftables, WireGuard |
 | [Security Operations Lab: Layer 8](https://github.com/vladimirbr-rgb/layer8-security-operations-lab) | Мониторинг и реагирование на инциденты, анализ уязвимостей, WAF, VPN, LDAP и сетевая фильтрация | Wazuh, BunkerWeb, WireGuard, LDAP, nftables, Docker |
-| Дипломная работа: защищённая инфраструктура головного офиса и филиала | Аудит, анализ угроз, настройка защищённой сети, Linux/Windows hardening и автоматизация мер защиты | Linux, Windows Server, Docker, Active Directory, nftables, Wazuh, WireGuard, Ansible |
+| [Дипломный проект: защищённая инфраструктура головного офиса и филиала](https://github.com/vladimirbr-rgb/secure-infrastructure-thesis) | Аудит, расследование инцидентов, Linux hardening, сегментация филиала, nftables, ClamAV через Ansible и тестовый домен Active Directory с GPO | Linux, Windows Server, Active Directory, OpenLDAP, Ansible, nftables, Wazuh, ClamAV, Arkime |
 
 > Репозитории с обезличенными конфигурациями, скриптами, схемами и результатами тестирования будут добавлены по мере оформления портфолио.
 
