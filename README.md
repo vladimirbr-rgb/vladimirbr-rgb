@@ -52,7 +52,7 @@
 
 | Проект | Краткое содержание | Технологии |
 |---|---|---|
-| Реализация безопасной инфраструктуры компании InvestPro | Проектирование защищённой инфраструктуры, сегментация сети, настройка межсетевого экрана и управления доступом | Linux, Windows Server, Active Directory, OpenLDAP, nftables, WireGuard |
+| [Реализация безопасной инфраструктуры компании InvestPro](https://github.com/vladimirbr-rgb/investpro-secure-infrastructure) | Проектирование защищённой инфраструктуры, сегментация сети, настройка межсетевого экрана и управления доступом | Linux, Windows Server, Active Directory, OpenLDAP, nftables, WireGuard |
 | Защита веб-сервиса и мониторинг событий ИБ | Настройка защиты веб-сервиса, сбор и анализ событий безопасности, автоматизация защитных процедур | Nginx, ModSecurity, OWASP CRS, BunkerWeb, Wazuh, Ansible, ClamAV |
 | Дипломная работа: защищённая инфраструктура головного офиса и филиала | Аудит, анализ угроз, настройка защищённой сети, Linux/Windows hardening и автоматизация мер защиты | Linux, Windows Server, Docker, Active Directory, nftables, Wazuh, WireGuard, Ansible |
 
