@@ -56,6 +56,19 @@
 | [Security Operations Lab: Layer 8](https://github.com/vladimirbr-rgb/layer8-security-operations-lab) | Мониторинг и реагирование на инциденты, анализ уязвимостей, WAF, VPN, LDAP и сетевая фильтрация | Wazuh, BunkerWeb, WireGuard, LDAP, nftables, Docker |
 | [Дипломный проект: защищённая инфраструктура головного офиса и филиала](https://github.com/vladimirbr-rgb/secure-infrastructure-thesis) | Аудит, расследование инцидентов, Linux hardening, сегментация филиала, nftables, ClamAV через Ansible и тестовый домен Active Directory с GPO | Linux, Windows Server, Active Directory, OpenLDAP, Ansible, nftables, Wazuh, ClamAV, Arkime |
 
+## Практика CTF / HackerLab
+
+Решаю учебные CTF-задачи на платформе [HackerLab](https://hackerlab.pro/categories/misc), чтобы развивать практические навыки анализа артефактов, работы с Linux, Python, криптографическими инструментами и безопасного документирования результатов.
+
+| Задание | Краткое содержание | Практические навыки |
+|---|---|---|
+| [Anonymizer — Decoding Client Records](https://github.com/vladimirbr-rgb/hackerlab-ctf-writeups/tree/main/task-01) | Анализ Python-скрипта и учебных клиентских артефактов, подготовка собственного декодера и безопасная проверка результата | Ubuntu, Bash, Python, анализ логики обработки данных, `unzip`, работа с файлами |
+| [Time Capsule](https://github.com/vladimirbr-rgb/hackerlab-ctf-writeups/tree/main/task-02-time-capsule) | Анализ time-lock контейнера, извлечение age-пейлоада и расшифровка с использованием `age-plugin-tlock` и drand | Windows PowerShell, SSH/SCP, Ubuntu, Bash, `age`, drand, `age-plugin-tlock`, анализ криптографических артефактов |
+
+Полное описание, безопасный журнал команд и подтверждающие скриншоты собраны в отдельном репозитории: [HackerLab CTF Write-ups](https://github.com/vladimirbr-rgb/hackerlab-ctf-writeups).
+
+> Все задачи выполняются только в рамках учебной платформы и на предоставленных артефактах. В публичных write-up'ах не публикуются флаги, ключи, расшифрованные данные, персональная информация и иные чувствительные материалы.
+
 ## Инфраструктура и системное администрирование
 
 Практический проект по проектированию и настройке корпоративной инфраструктуры: сетевой дизайн, VLAN, маршрутизация, базовые Linux-сервисы, автоматизация и Active Directory.
